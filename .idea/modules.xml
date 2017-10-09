@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/PHJ/AT_PH/.idea/AT_PH.iml" filepath="D:/PHJ/AT_PH/.idea/AT_PH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Demo.iml" filepath="$PROJECT_DIR$/.idea/Demo.iml" />
+      <module fileurl="file://D:/PHJ/.idea/PHJ.iml" filepath="D:/PHJ/.idea/PHJ.iml" />
+      <module fileurl="file://D:/python/appium-python3-master/.idea/appium-python3-master.iml" filepath="D:/python/appium-python3-master/.idea/appium-python3-master.iml" />
+      <module fileurl="file://D:/software/demo/awesome-python-webapp-release/awesome-python-webapp-release/.idea/awesome-python-webapp-release.iml" filepath="D:/software/demo/awesome-python-webapp-release/awesome-python-webapp-release/.idea/awesome-python-webapp-release.iml" />
+      <module fileurl="file://C:/Python27/Scripts/guest/.idea/guest.iml" filepath="C:/Python27/Scripts/guest/.idea/guest.iml" />
+      <module fileurl="file://C:/Python27/Scripts/mysite/.idea/mysite.iml" filepath="C:/Python27/Scripts/mysite/.idea/mysite.iml" />
+      <module fileurl="file://D:/weixin/.idea/weixin.iml" filepath="D:/weixin/.idea/weixin.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<?xml-stylesheet href="LOG.XSLT" type="text/xsl"?>
+	<REPORT>
+		<OVER_STATUS>PASSED</OVER_STATUS>
+		<LOG_ENTRY>
+			<STATUS>FAILED</STATUS>
+			<EXECUTION_TIME>2017.09.13 09:42:31</EXECUTION_TIME>
+			<STEP_RESULT>FAILED</STEP_RESULT>
+			<COMPONENT_NAME>704</COMPONENT_NAME>
+			<STEP_DESCRIPTION>{u'nextUrl': u'http://www.elong.com', u'message': u'\u9a8c\u8bc1\u7801\u9519\u8bef', u'code': u'704', u'success': False, u'isShowVerifyCode': True}</STEP_DESCRIPTION>
+		</LOG_ENTRY>
+		<LOG_ENTRY>
+			<STATUS>FAILED</STATUS>
+			<EXECUTION_TIME>2017.09.13 09:42:31</EXECUTION_TIME>
+			<STEP_RESULT>FAILED</STEP_RESULT>
+			<COMPONENT_NAME>704</COMPONENT_NAME>
+			<STEP_DESCRIPTION>{u'nextUrl': u'http://www.elong.com', u'message': u'\u9a8c\u8bc1\u7801\u9519\u8bef', u'code': u'704', u'success': False, u'isShowVerifyCode': True}</STEP_DESCRIPTION>
+		</LOG_ENTRY>
+	</REPORT>
